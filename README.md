@@ -1,4 +1,4 @@
 # RobPMEPASNN
-Pulsation-Aware Artery Segmentation Using Motion Magnification
+Motion Magnification in Robotic Sonography: Enabling Pulsation-Aware Artery Segmentation 
 
 To be uploaded ...
