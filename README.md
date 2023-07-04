@@ -7,9 +7,7 @@
  * @Description: This is a readme file
 -->
 
-# PAS-NN for Robotic Ultrasound
-
-#### Motion Magnification in Robotic Sonography: Enabling Pulsation-Aware Artery Segmentation
+# Motion Magnification in Robotic Sonography: Enabling Pulsation-Aware Artery Segmentation
 
 #### Introduction
 This work presents a novel pulsation-assisted segmentation neural network (PAS-NN) by explicitly taking advantage of the cardiac-induced motions. Motion magnification techniques are employed to amplify the subtle motion within the frequency band of interest to extract the pulsation signals from sequential US images. 
