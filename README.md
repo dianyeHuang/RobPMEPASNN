@@ -33,7 +33,7 @@ This repository includes codes for implementing the pulsation-map algorithm and 
 </div>
 
 ## Video Demo
-![video demo can be found here](https://www.youtube.com/embed/cLeN-TGS1f8 "Demo video")
+[![Alt text](asset/video_cover.png)](https://www.youtube.com/embed/cLeN-TGS1f8)
 
 ## Citation
 If you found this work interesting and adopted part of it to your own research, or if this work inspires your research, you can cite our paper by:
