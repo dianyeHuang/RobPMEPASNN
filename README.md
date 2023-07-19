@@ -20,7 +20,7 @@ A robotic arm is utilized to acquire the ultrasound images stably.
 </div>
 
 #### Video Demo
-[![Alt text](asset/video_cover.png)](https://www.youtube.com/embed/cLeN-TGS1f8)
+[![Alt text](asset/video_cover.png)](https://youtu.be/c9AM042_lUQ)
 
 
 #### Repository description
